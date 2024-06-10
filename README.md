@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João patriota 👋
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=devpatriota&show_icons=true&theme=dracula)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=devpatriota&show_icons=true&theme=dracula) ![João GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devpatriota&layout=compact&langs_count=16&theme=dracula)
 
 ## About Me 🙍‍♂️
 - Meu nome é João Roberto Moreira Barbosa Patriota
