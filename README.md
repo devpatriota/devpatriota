@@ -4,13 +4,13 @@ Graduando em Ciência da Computação. Em busca de aplicar e aprimorar minhas ha
 
 ## Conecte-se comigo | 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/jao._.patriota/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jo%C3%A3o-patriota-b13468310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B98g0y00ORlyD4vKSnNGgGA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](http://www.linkedin.com/in/joãopatriota)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=blue)](joao.patriota0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/devpatriota)
 [![LinkTree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=blue)](https://linktr.ee/DevPatriota)
 
 ## Linguagens de Programação | 🧠
-- Bakc-End: ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+- Back-End: ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 - Linguagens de Marcação: ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - Ferramentas: ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
